@@ -11,7 +11,7 @@ Software Engineer with 10+ years of experience, transitioning from Frontend to B
 - **Location:** Córdoba, Argentina
 - **Current Focus:** Backend Development with Node.js & NestJS
 - **Experience:** 10+ years in software development (5 years at Globant with React/TypeScript)
-- **Languages:** Spanish (Native), English (B2 - Professional)
+- **Languages:** Spanish (Native), English (C1 - Professional)
 - **Learning:** AWS Solutions Architect Associate (in progress)
 
 ---
